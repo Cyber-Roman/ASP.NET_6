@@ -1,0 +1,53 @@
+﻿@using Lab6.Models
+@model Order
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Замовлення</title>
+</head>
+<body>
+    
+<form method="post" id="orderForm">
+    <label for="orderQuantity">Кількість замовлень:</label>
+    <input type="number" id="orderQuantity" name="OrderQuantity" required>
+    <br>
+
+    <div id="orderNamesSection" style="display:none;">
+        <label>Імена замовлень:</label>
+        <div id="orderNamesContainer">
+           
+        </div>
+    </div>
+
+    <input type="submit" value="Замовити">
+</form>
+
+<script>
+    // JS для відображення полів імен замовлень при введенні кількості
+    document.getElementById("orderQuantity").addEventListener("change", function() {
+        var quantity = parseInt(this.value);
+        if (quantity > 0) {
+            document.getElementById("orderNamesSection").style.display = "block";
+            var container = document.getElementById("orderNamesContainer");
+            container.innerHTML = "";
+            for (var i = 0; i < quantity; i++) {
+                var input = document.createElement("input");
+                input.type = "text";
+                input.name = "OrderName[" + i + "]";
+                input.placeholder = "Ім'я замовлення " + i;
+                container.appendChild(input);
+                container.appendChild(document.createElement("br"));
+            }
+        } else {
+            document.getElementById("orderNamesSection").style.display = "none";
+        }
+    });
+</script>
+</body>
+</html>

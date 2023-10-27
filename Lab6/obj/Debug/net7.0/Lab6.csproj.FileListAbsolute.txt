@@ -1,0 +1,58 @@
+D:\all .net project\Lab6\Lab6\bin\Debug\net7.0\appsettings.Development.json
+D:\all .net project\Lab6\Lab6\bin\Debug\net7.0\appsettings.json
+D:\all .net project\Lab6\Lab6\bin\Debug\net7.0\Lab6.staticwebassets.runtime.json
+D:\all .net project\Lab6\Lab6\bin\Debug\net7.0\Lab6.exe
+D:\all .net project\Lab6\Lab6\bin\Debug\net7.0\Lab6.deps.json
+D:\all .net project\Lab6\Lab6\bin\Debug\net7.0\Lab6.runtimeconfig.json
+D:\all .net project\Lab6\Lab6\bin\Debug\net7.0\Lab6.dll
+D:\all .net project\Lab6\Lab6\bin\Debug\net7.0\Lab6.pdb
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\Lab6.csproj.AssemblyReference.cache
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\Lab6.AssemblyInfoInputs.cache
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\Lab6.AssemblyInfo.cs
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\Lab6.csproj.CoreCompileInputs.cache
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\Lab6.MvcApplicationPartsAssemblyInfo.cache
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\Lab6.RazorAssemblyInfo.cache
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\Lab6.RazorAssemblyInfo.cs
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\staticwebassets\msbuild.Lab6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\staticwebassets\msbuild.build.Lab6.props
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Lab6.props
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Lab6.props
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\staticwebassets.pack.json
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\staticwebassets.build.json
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\staticwebassets.development.json
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\scopedcss\bundle\Lab6.styles.css
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\Lab6.dll
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\refint\Lab6.dll
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\Lab6.pdb
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\Lab6.genruntimeconfig.cache
+D:\all .net project\Lab6\Lab6\obj\Debug\net7.0\ref\Lab6.dll
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\bin\Debug\net7.0\appsettings.Development.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\bin\Debug\net7.0\appsettings.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\bin\Debug\net7.0\Lab6.staticwebassets.runtime.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\bin\Debug\net7.0\Lab6.exe
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\bin\Debug\net7.0\Lab6.deps.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\bin\Debug\net7.0\Lab6.runtimeconfig.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\bin\Debug\net7.0\Lab6.dll
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\bin\Debug\net7.0\Lab6.pdb
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\Lab6.csproj.AssemblyReference.cache
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\Lab6.AssemblyInfoInputs.cache
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\Lab6.AssemblyInfo.cs
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\Lab6.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\Lab6.MvcApplicationPartsAssemblyInfo.cache
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\Lab6.RazorAssemblyInfo.cache
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\Lab6.RazorAssemblyInfo.cs
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\staticwebassets\msbuild.Lab6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\staticwebassets\msbuild.build.Lab6.props
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Lab6.props
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Lab6.props
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\staticwebassets.pack.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\staticwebassets.build.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\staticwebassets.development.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\scopedcss\bundle\Lab6.styles.css
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\Lab6.dll
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\refint\Lab6.dll
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\Lab6.pdb
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\Lab6.genruntimeconfig.cache
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\obj\Debug\net7.0\ref\Lab6.dll

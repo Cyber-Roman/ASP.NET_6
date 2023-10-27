@@ -1,0 +1,34 @@
+﻿@using System.Data.Common
+@using Lab6.Models
+@model CompositeModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Замовлення</title>
+</head>
+<body>
+<div>
+    @if (Model.User.Age < 16)
+    {
+        <p>Вибачте, але замовлення можна робити від 17 років</p>
+    }
+    else
+    {
+        <h1>Ваше замовлення:</h1>
+        <p>Ім'я: @Model.User.Name</p>
+        <p>Вік: @Model.User.Age</p>
+        <p>Кількість замовлень: @Model.Order.OrderQuantity</p>
+        @for (int i = 0; i < Model.Order.OrderName.Count; i++)
+        {
+            <p>Замовлення @i: @Model.Order.OrderName[i]</p>
+        }
+    }
+</div>
+</body>
+</html>

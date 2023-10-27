@@ -1,0 +1,29 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lab6
+build_property.RootNamespace = Lab6
+build_property.ProjectDir = D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\ASP.Net-Lab6-main\Lab6
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/УЧЕБА/1 Розробка web-застосунків на базі ASP.NET/ASP.Net-Lab6-main/Lab6/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧЕБА/1 Розробка web-застосунків на базі ASP.NET/ASP.Net-Lab6-main/Lab6/Views/Home/OrderSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcmRlclN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧЕБА/1 Розробка web-застосунків на базі ASP.NET/ASP.Net-Lab6-main/Lab6/Views/Home/SelectQuantity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWxlY3RRdWFudGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
